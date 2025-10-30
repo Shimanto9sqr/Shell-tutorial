@@ -28,3 +28,5 @@ for i in ${simple_arr[@]}
 do
     echo $i 
 done
+
+# @ -> Pass like array | * -> pass after joining single line becomes one data
